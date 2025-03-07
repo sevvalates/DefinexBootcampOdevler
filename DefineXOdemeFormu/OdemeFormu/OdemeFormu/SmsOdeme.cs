@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace OdemeFormu
 {
-
     public class SmsOdeme : IOdemeIslemi
     {
         public string OdemeYap(int tutar)
