@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "AttributeOgrenciKayitWebApi.Controllers.OgrenciController",
+    "Method": "PostOgrenci",
+    "RelativePath": "api/Ogrenci",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ogrenci",
+        "Type": "AttributeOgrenciKayitWebApi.Models.Ogrenci",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

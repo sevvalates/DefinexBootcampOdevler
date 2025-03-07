@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AttributeOgrenciKayıtForm/1.0.0": {
+        "dependencies": {
+          "AttributeClassLibrary": "1.0.0.0"
+        },
+        "runtime": {
+          "AttributeOgrenciKayıtForm.dll": {}
+        }
+      },
+      "AttributeClassLibrary/1.0.0.0": {
+        "runtime": {
+          "AttributeClassLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AttributeOgrenciKayıtForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AttributeClassLibrary/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
